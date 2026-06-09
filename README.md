@@ -29,11 +29,7 @@ Dataset: You can find our [Dataset](https://www.kaggle.com/datasets/mehedihasann
 <div style="text-align:center;">
     <img src="https://github.com/Nirob-0812/Violence-Detection/assets/75689692/7719e947-b187-4ce8-b3da-34364545584c" alt="Image Preview" width="700" height="400">
 </div>
-<h3>For trail I use laptop's webcam</h3>
-<h5>This is the main feature of our project that is detect violence or non violence from webcam</h5>
-<div style="text-align:center;">
-    <img src="https://github.com/Nirob-0812/Violence-Detection/assets/75689692/793c8995-3c7b-4d11-b600-c93d9c931380" alt="Image Preview" width="700" height="400">
-</div>
+
 
 
 
